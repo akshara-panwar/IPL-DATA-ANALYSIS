@@ -1,22 +1,21 @@
 # IPL Data Analysis 🏏
 
-This project is based on IPL dataset analysis using Python.  
-I analyzed different IPL teams, players, match results, and trends using Python libraries like Pandas and Matplotlib.
+This project is based on IPL match data analysis using Python.  
+I explored different IPL teams, match results, toss decisions, venues, and player performances using Pandas and Matplotlib.
 
 ---
 
 ## About Project
 
-In this project, I explored IPL match data to find useful insights such as:
+In this project, I analyzed IPL match data to find useful insights such as:
 
-- Top batsmen  
-- Best bowlers  
-- Team performance  
-- Toss impact on matches  
+- Team performance over matches  
+- Toss impact on match results  
 - Winning trends  
 - Venue analysis  
+- Player of the match analysis  
 
-I also created charts and graphs for better understanding of the data.
+I also created charts and graphs to better understand the data.
 
 ---
 
@@ -31,28 +30,24 @@ I also created charts and graphs for better understanding of the data.
 
 ## Analysis Included
 
-### Top Batsmen Analysis
-- Most runs scored  
-- Strike rate comparison  
-- Boundary analysis  
-
-### Best Bowlers Analysis
-- Most wickets  
-- Economy rate  
-- Bowling performance  
+### Team Performance
+- Most successful teams  
+- Win comparison between teams  
 
 ### Toss Analysis
 - Toss winner vs match winner  
-- Bat first vs chase comparison  
-
-### Team Performance
-- Most successful teams  
-- Win percentage  
-- Season-wise performance  
+- Bat first vs chase results  
 
 ### Venue Analysis
-- High scoring grounds  
-- Match results by venue  
+- Matches played in different stadiums  
+- High frequency venues  
+
+### Player Analysis
+- Most Player of the Match awards  
+
+### Match Trends
+- Winning patterns  
+- Season-wise insights  
 
 ---
 
@@ -66,12 +61,14 @@ I also created charts and graphs for better understanding of the data.
 
 ## Dataset
 
-IPL dataset used for analysis contains:
+The dataset contains IPL match-level data including:
 
 - Match details  
 - Team information  
-- Player statistics  
-- Ball-by-ball data  
+- Toss results  
+- Venue and city  
+- Match winner  
+- Player of the match  
 
 ---
 
@@ -80,10 +77,10 @@ IPL dataset used for analysis contains:
 - Data cleaning  
 - Data analysis  
 - Data visualization  
-- Working with datasets using Python  
+- Working with real-world datasets using Python  
 
 ---
 
 ## Conclusion
 
-This project helped me improve my Python and data analysis skills by working on real IPL match data.
+This project helped me improve my Python and data analysis skills by working on IPL match-level data.
