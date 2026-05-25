@@ -23,7 +23,6 @@ I also created charts and graphs for better understanding of the data.
 
 - Python  
 - Pandas  
-- NumPy  
 - Matplotlib  
 
 ---
