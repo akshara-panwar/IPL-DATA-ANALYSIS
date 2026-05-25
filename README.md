@@ -7,15 +7,15 @@ I explored different IPL teams, match results, toss decisions, venues, and playe
 
 ## About Project
 
-In this project, I analyzed IPL match data to find useful insights such as:
+In this project, I explored IPL match data to find useful insights such as:
 
-- Team performance over matches  
-- Toss impact on match results  
+- Team performance  
+- Toss impact on matches  
 - Winning trends  
 - Venue analysis  
 - Player of the match analysis  
 
-I also created charts and graphs to better understand the data.
+I also created charts and graphs for better understanding of the data.
 
 ---
 
