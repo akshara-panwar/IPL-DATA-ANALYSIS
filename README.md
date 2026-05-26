@@ -19,12 +19,6 @@ I also created charts and graphs for better understanding of the data.
 
 ---
 
-## Dataset
-
-IPL match-level dataset obtained from a GitHub repository and used for exploratory data analysis, visualization, and insights generation.
-
-Dataset Source:  Sourced from GitHub (original repository not documented)
-
 ## Technologies Used
 
 - Python  
@@ -96,7 +90,9 @@ The dataset contains IPL match-level data including:
 - Toss results  
 - Venue and city  
 - Match winner  
-- Player of the match  
+- Player of the match
+
+Dataset Source:  Sourced from GitHub (original repository not documented)
 
 ---
 
