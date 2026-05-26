@@ -11,7 +11,7 @@ In this project, I explored IPL match data to find useful insights such as:
 
 - Team performance  
 - Toss impact on matches  
-- Winning trends  
+- Winning Pattern Analysis (year-wise team performance trends)
 - Venue analysis  
 - Player of the match analysis  
 
