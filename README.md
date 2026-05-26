@@ -51,7 +51,10 @@ Dataset Source:  Sourced from GitHub (original repository not documented)
 - Most Player of the Match awards  
 
 ### Match Trends
-- Winning patterns  
+- Matches per year
+
+### Winning Pattern Analysis
+- Year-wise team performance trends  
 
 ---
 
