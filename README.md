@@ -52,7 +52,6 @@ Dataset Source:  Sourced from GitHub (original repository not documented)
 
 ### Match Trends
 - Winning patterns  
-- Season-wise insights  
 
 ---
 
