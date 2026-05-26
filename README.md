@@ -50,11 +50,32 @@ I also created charts and graphs for better understanding of the data.
 
 ---
 
-## Visualizations
+## 📊 Visualizations
 
-- Bar Charts  
-- Pie Charts  
-- Line Graphs  
+### 1. Team Performance Analysis
+![Team Performance](01_team_performance.png)
+
+### 2. Win Comparison Between Teams
+![Win Comparison](02_win_comparison.png)
+
+### 3. Toss Analysis
+![Toss Analysis](03_toss_analysis.png)
+
+### 4. Toss Winner vs Match Winner
+![Toss vs Match](04_toss_vs_match_winner.png)
+
+### 5. Bat First vs Chase First
+![Bat vs Chase](05_bat_vs_chase.png)
+
+### 6. Venue Analysis
+![Venue](06_venue_analysis.png)
+
+### 7. Matches Per Year
+![Matches Per Year](07_matches_per_year.png)
+
+### 8. Top Players
+![Top Players](08_top_players.png)
+
 
 ---
 
